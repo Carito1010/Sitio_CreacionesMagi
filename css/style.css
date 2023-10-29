@@ -1,0 +1,50 @@
+
+/*body {
+    background-image:var(--background), url(../img/imagen.jpg);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo
+    background-repeat: no-repeat; /* Evita que la imagen se repita
+    background-attachment: fixed; /* Opcional: fija la imagen de fondo 
+}*/
+
+/*header{
+    background: rgb(241, 194, 194);
+}*/
+
+*{
+    background: gainsboro;
+}
+.Escudo{
+    margin-top: -60px;
+    margin-right: 120px;
+}
+.Equipo{
+    margin-top: -10px;
+    margin-left: -70px;
+}
+.Redes{
+    margin-left: -1050px;
+}
+.icono1{
+    margin-left: 1400px;
+    margin-top: -200px;
+}
+.Face{
+    width: 80px;
+    height: 80px;
+}
+.icono2{
+    margin-left: 1560px;
+    margin-top: -80px;
+}
+.Insta{
+    width: 80px;
+    height: 80px;
+}
+.icono3{
+    margin-left: 1710px;
+    margin-top: -80px;
+}
+.Whats{
+    width: 80px;
+    height: 80px;
+}
